@@ -18,7 +18,7 @@ Egregio #p.vardanega,
 
 Egregio #p.cardin,
 
-con la presente il gruppo _#(g.name)_ intende comunicarVi ufficialmente l’intenzione di sostenere la revisione *PB* in data 2024-04-04 del progetto da voi commissionato, denominato 
+con la presente il gruppo _#(g.name)_ intende comunicarVi ufficialmente l’intenzione di sostenere la revisione *PB* in data 2024-04-05 del progetto da voi commissionato, denominato 
 #align(center, text(13pt)[
   *JMAP: il nuovo protocollo per la posta elettronica*
 ])
@@ -62,7 +62,7 @@ Viene inoltre fornito il *Minimum Viable Product*, approvato dall'azienda propon
 #align(center, text(12.5pt)[
   #link(g.org+"/"+g.jmap)
 ])
-Il gruppo _#(g.name)_ intende consegnare il prodotto in data *2024-04-04*, terminando l'impegno preso e non partecipando quindi alla revisione *CA*. Proprio per questo, la spesa totale ammonta a *12.265€*, inferiore rispetto alla cifra preventivata in fase di candidatura alla RTB (*12.615€*).\
+Il gruppo _#(g.name)_ intende consegnare il prodotto in data *2024-04-05*, terminando l'impegno preso e non partecipando quindi alla revisione *CA*. Proprio per questo, la spesa totale ammonta a *12.265€*, inferiore rispetto alla cifra preventivata in fase di candidatura alla RTB (*12.615€*).\
 Per qualsiasi chiarificazione rimaniamo a Vostra completa disposizione.
 
 #align(right,"Cordiali Saluti,")
